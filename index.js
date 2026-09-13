@@ -72,7 +72,7 @@ function extractImagePrompt(text) {
 // ── AI API ──
 const GEM_ID  = 'ba0fbe0d-976e-493a-afdb-6d8469e53df0';
 const API_URL = `https://nxtai.zipohostbd.workers.dev/api/use?gem=${GEM_ID}`;
-const API_KEY = 'nxt_3a454c41e6a84aeead28d1fb4aec87a4';
+const API_KEY = 'nxt_72248f33b8f24ba2ac1e6a6d7898ec9e';
 
 async function askAI(userMessage) {
     try {
